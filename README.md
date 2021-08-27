@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheOverLordEA
-- 👀 I’m a fullstack developer
+- 👀 I’m a Frontend Developer
 - 🌱 I’m currently learning express, redux, and node.js
 - 💞️ I’m looking to collaborate on mobile and web applications
 - 📫 You can reach through email, github, or linkedin 
