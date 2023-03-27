@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erkhembayar Atarbold</h1>
 <h3 align="center">A software engineer with more than 3+ years of profesional expirence</h3>
 
-- 🔭 I’m currently working on [RBB](https://github.com/Erkhembayar-Atarbold/BOB-RBB)
+<!-- - 🔭 I’m currently working on [RBB](https://github.com/Erkhembayar-Atarbold/BOB-RBB) -->
 
-- 👯 I’m looking to collaborate on [Gustov a free to use template for restraunts](https://github.com/Erkhembayar-Atarbold/project__gustov)
+<!-- - 👯 I’m looking to collaborate on [Gustov a free to use template for restraunts](https://github.com/Erkhembayar-Atarbold/project__gustov) -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheOverLordEA](https://github.com/TheOverLordEA)
 
