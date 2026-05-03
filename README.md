@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erkhembayar Atarbold</h1>
-<h3 align="center">A software engineer with more than 4 years of professional expirence</h3>
+
 
 <!-- - 🔭 I’m currently working on [RBB](https://github.com/Erkhembayar-Atarbold/BOB-RBB) -->
 
